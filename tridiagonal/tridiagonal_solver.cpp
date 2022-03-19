@@ -1,7 +1,7 @@
 #include <vector>
 #include <type_traits>
 
-#include <eigen3/Eigen/Core>
+#include <Eigen/Core>
 
 #include "utils.hpp"
 

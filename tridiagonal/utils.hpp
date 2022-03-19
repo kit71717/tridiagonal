@@ -1,7 +1,7 @@
 #ifndef TRIDIAGONAL_UTILS_HPP
 #define TRIDIAGONAL_UTILS_HPP
 
-#include <eigen3/Eigen/Core>
+#include <Eigen/Core>
 #include <type_traits>
 
 using Eigen::MatrixBase;

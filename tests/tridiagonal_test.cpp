@@ -1,7 +1,7 @@
 #include <catch2/catch.hpp>
 
 #include <vector>
-#include <eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 
 #include <tridiagonal/tridiagonal>
 
